@@ -1,11 +1,9 @@
 https://github.com/Jayasisodiya01/Myfirstrepo.githttps://github.com/Jayasisodiya01/Myfirstrepo.githttps://github.com/Jayasisodiya01/Myfirstrepo.git
 https://github.com/Jayasisodiya01/Myfirstrepo.git
 
-<<<<<<< HEAD
-End of task
-============
-=======
+
+
 Troubleshooting
 ---------------------
 ---------------------
->>>>>>> bf225364ca2bf6bc169f88293c1957cdcbe0b07b
+
